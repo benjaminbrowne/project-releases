@@ -1,6 +1,13 @@
 Game development project using Godot 4. Roguelike, wave defense, hack & slash game.
 
+Gameplay screenshots:
 
+![Portal Guard (DEBUG) 16_04_2025 7_49_19 pm](https://github.com/user-attachments/assets/3c5f04f9-3916-42e3-9d2d-27c323064ce5)
+![Portal Guard (DEBUG) 16_04_2025 7_47_30 pm](https://github.com/user-attachments/assets/f541de1c-5076-4d43-b888-72211b9df210)
+![Portal Guard (DEBUG) 16_04_2025 7_47_27 pm](https://github.com/user-attachments/assets/653efc2a-092a-4e6d-8c54-c1649e890249)
+![image](https://github.com/user-attachments/assets/3a8b55ef-4133-4d92-bde0-7f417f992d9c)
+![image](https://github.com/user-attachments/assets/452d22e3-a021-4a9a-8c43-513b1b31e892)
+![image](https://github.com/user-attachments/assets/66b1e533-83db-44f2-b2c8-90166dc727a5)
 
 Assets used:
 
